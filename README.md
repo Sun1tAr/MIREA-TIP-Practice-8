@@ -77,7 +77,7 @@ type Note struct {
 
 ## Результаты тестирования
 
-Для тестирования была сформирована [Postman коллекция](XXX)
+Для тестирования была сформирована [Postman коллекция](https://lively-flare-564043.postman.co/workspace/My-Workspace~fe2081e8-b325-4776-8b48-400d41f5b4bd/collection/42992055-dbd147c9-cdd6-4e90-ab1b-54ad26d13849?action=share&creator=42992055)
 
 ### Создание новой заметки
 
